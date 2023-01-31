@@ -8,17 +8,17 @@ https://norbi983.github.io/todo-list-react/
 
 ### Technogies
 
--HTML
--CSS Grid
--Normalize
--BEM convention
--JavaScript
--ES6+ features
--Git
--Markdown
--Media queries
--React
--Creat-react-app
+- HTML
+- CSS Grid
+- Normalize
+- BEM convention
+- JavaScript
+- ES6+ features
+- Git
+- Markdown
+- Media queries
+- React
+- Creat-react-app
 
 ## Available Scripts
 
