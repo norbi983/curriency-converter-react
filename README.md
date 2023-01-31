@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://norbi983.github.io/curriency-converter-react/
 
+### How it works
+
+
+
 ### Technogies
 
 - HTML
