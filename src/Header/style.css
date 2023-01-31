@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    color: hsl(240, 64%, 27%);
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.header__title {
+    border-bottom: 4px solid darkgoldenrod;
+    margin: 0;
+}
