@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Demo
 
-https://norbi983.github.io/todo-list-react/
+https://norbi983.github.io/curriency-converter-react/
 
 ### Technogies
 
