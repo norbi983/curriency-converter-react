@@ -8,7 +8,7 @@ https://norbi983.github.io/curriency-converter-react/
 
 ### How it works
 
-
+![Licznik-walut-Google-Chrome-2023-01-31-21-20-02](https://user-images.githubusercontent.com/114927587/215874265-0c54b4e2-de16-4f88-a24c-c0cd2a8c5498.gif)
 
 ### Technogies
 
