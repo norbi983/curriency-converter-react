@@ -4,21 +4,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Demo
 
-https://norbi983.github.io/todo-list-react/
+https://norbi983.github.io/curriency-converter-react/
+
+### How it works
+
+![Licznik-walut-Google-Chrome-2023-01-31-21-20-02](https://user-images.githubusercontent.com/114927587/215874265-0c54b4e2-de16-4f88-a24c-c0cd2a8c5498.gif)
 
 ### Technogies
 
--HTML
--CSS Grid
--Normalize
--BEM convention
--JavaScript
--ES6+ features
--Git
--Markdown
--Media queries
--React
--Creat-react-app
+- HTML
+- CSS Grid
+- Normalize
+- BEM convention
+- JavaScript
+- ES6+ features
+- Git
+- Markdown
+- Media queries
+- React
+- Creat-react-app
 
 ## Available Scripts
 
