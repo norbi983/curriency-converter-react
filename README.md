@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Description
+
+This is my project showing a currency calculator that converts the exchange rate to dollars, pounds and euros. The project has been moved to React. The current date and time have also been entered. Write what you think about my work.
+
 ### Demo
 
 https://norbi983.github.io/curriency-converter-react/
