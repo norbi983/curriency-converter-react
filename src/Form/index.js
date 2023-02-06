@@ -3,6 +3,7 @@ import { useState } from "react";
 import { currencies } from "../currencies";
 import Result from "../Result";
 
+
 const Form = () => {
     const [amount, setAmount] = useState("");
     const [currency, setCurrency] = useState(currencies[0].code);
