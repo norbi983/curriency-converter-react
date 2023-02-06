@@ -8,13 +8,8 @@ const Form = () => {
     const [currency, setCurrency] = useState(currencies[0].code);
     const rate = currencies.find(({ code }) => code === currency).rate;
 
-    const onFormSubmit = (event) => {
-        event.preventDefault();
-        console.log(`${amount} ${currency}`);
-    };
-
     return (
-        <form className="form" onSubmit={onFormSubmit}>
+        <form className="form">
             <fieldset className="form__fieldset">
                 <p>
                     <label className="form__label">
